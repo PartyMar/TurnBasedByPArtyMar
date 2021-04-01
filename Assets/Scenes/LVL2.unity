@@ -201,7 +201,7 @@ PrefabInstance:
     - target: {fileID: 206456341257455287, guid: 83b6867c8411f574188b21240f20f35e,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0.99991
+      value: 0.99990845
       objectReference: {fileID: 0}
     - target: {fileID: 206456341257455287, guid: 83b6867c8411f574188b21240f20f35e,
         type: 3}
@@ -882,6 +882,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4775383528420347340, guid: 800e0b0dc76c4f24ab7018e0508b3af1,
+        type: 3}
+      propertyPath: m_Name
+      value: RestartButton
+      objectReference: {fileID: 0}
     - target: {fileID: 4775383528636949008, guid: 800e0b0dc76c4f24ab7018e0508b3af1,
         type: 3}
       propertyPath: map
@@ -951,6 +956,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: GameManager
+      objectReference: {fileID: 0}
+    - target: {fileID: 4775383529608287122, guid: 800e0b0dc76c4f24ab7018e0508b3af1,
+        type: 3}
+      propertyPath: m_Text
+      value: RESTART   BUTTON
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 800e0b0dc76c4f24ab7018e0508b3af1, type: 3}
