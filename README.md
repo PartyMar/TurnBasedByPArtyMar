@@ -14,7 +14,7 @@ Control: for selecting unit click on him. If you want unselect, click on him aga
 
 To see parameters of the Enemy Unit, click on it. Parameters will be shown on the top right corner (if the unit near the selected unit, selected unit will attack selected enemy unit).
 
-After all AP points spended, you can refresh them for all units (Enemy includes) by clicking on the End-Of-Turn-Buttom.
+After all AP points spended, you can refresh them for all units (Enemy includes) by clicking on the End-Of-Turn-Button.
 
 //TODO
 1. A* pathfinding
