@@ -2,7 +2,7 @@
  
 Tryin' to make simultaneously turn based
 
-The "TURNBASEDPATTY_v_0.001.rar" is a builded version for windows 86_64.
+The "TURNBASEDPATTY_v_0.0011.rar" is a builded version for windows 86_64.
 
 RULES that Exsist: EACH team act with move/attack unit per "turn" (click). Each attack and move take 1 AP (Action point). If the Defender (the unit that get attacked) have AP and still alive, he will answer.
 
