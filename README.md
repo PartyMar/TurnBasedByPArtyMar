@@ -21,3 +21,4 @@ After all AP points spended, you can refresh them for all units (Enemy includes)
 2. Enemy move even if the player uses all AP
 3. Truly simultaneously
 4. more units and actions.
+5. Differents mouse icons.  selected units.
