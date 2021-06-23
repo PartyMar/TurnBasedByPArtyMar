@@ -100,6 +100,7 @@ MonoBehaviour:
   CurrentHealthPoints: 4
   MaxHealthPoints: 4
   DamagePoints: 3
+  Ready: 1
   EndOfTurn: {fileID: 0}
 --- !u!61 &1834960744292469583
 BoxCollider2D:

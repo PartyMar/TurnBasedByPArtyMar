@@ -11,6 +11,7 @@ public class UnitParameters : MonoBehaviour
     [SerializeField] public int CurrentHealthPoints;
     [SerializeField] public int MaxHealthPoints;
     [SerializeField] public int DamagePoints;
+    [SerializeField] public bool Ready;
 
     public Button EndOfTurn;
 
